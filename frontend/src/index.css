@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
 
 * {
   margin: 0;
@@ -7,17 +8,18 @@
 }
 
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Orbitron', sans-serif;
   height: 100vh;
 }
 
 a {
   text-decoration: none;
-  color: #000;
+  color: rgb(0, 0, 0);
 }
 
 p {
   line-height: 1.7;
+  
 }
 
 ul {
@@ -33,6 +35,7 @@ h2,
 h3 {
   font-weight: 600;
   margin-bottom: 10px;
+  color: rgb(214, 68, 68);
 }
 
 .container {
@@ -83,7 +86,7 @@ h3 {
 }
 
 .heading p {
-  color: #828282;
+  color: #742979;
 }
 
 .todos {
@@ -139,7 +142,7 @@ h3 {
   padding: 10px 20px;
   border: 1px solid #000;
   border-radius: 5px;
-  background: #000;
+  background: rgb(168, 28, 150);
   color: #fff;
   font-size: 16px;
   font-weight: 700;

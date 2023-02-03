@@ -61,7 +61,7 @@ function Login() {
         <h1>
           <FaSignInAlt /> Login
         </h1>
-        <p>Login and start setting todos</p>
+        <p>Login and start Tracking todos</p>
       </section>
 
       <section className='form'>
